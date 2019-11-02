@@ -1,10 +1,10 @@
-#include <iostream>	
+#include <iostream>
 #include <set>
 #include <stack>
 #include <string>
 #include <vector>
 
-enum class Comand_kind {
+enum class Command_kind {
 	Operator,
 	Value,
 };
